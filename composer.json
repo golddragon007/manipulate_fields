@@ -1,0 +1,7 @@
+{
+  "name": "drupal/manipulate_fields",
+  "description": "Provides the manipulate_fields script.",
+  "type": "drupal-drush",
+  "license": "GPL-2.0+",
+  "require": {}
+}
