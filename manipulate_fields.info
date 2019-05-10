@@ -1,0 +1,3 @@
+name = Manipulate fields
+description = Drush command for manipulateing fields
+core = 7.x
