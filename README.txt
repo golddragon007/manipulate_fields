@@ -20,6 +20,9 @@ Yes.
 Can I use the entity types as an option in globally installed version?
 No.
 
+Does this module has a UI?
+No. Only drush commands.
+
 Can I unlock/lock multiple entity/field types?
 Yes, if you give as an option for the command like: drush mf lock --node --profile2 (local) or drush mf lock --types=node,profile2 (global). In this case all the fields related to node and profile2 will be locked.
 
